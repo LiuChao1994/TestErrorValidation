@@ -64,6 +64,5 @@
                 </Binding>
             </TextBox>
         </StackPanel>
-
     </Grid>
 </Window>
