@@ -50,7 +50,6 @@
             <AdornedElementPlaceholder />
         </ControlTemplate>
 
-       
     </Window.Resources>
 
     <Grid>
